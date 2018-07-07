@@ -1,5 +1,5 @@
 {
-  "name": "redux-form",
+  "name": "fundera-redux-form",
   "version": "5.2.5",
   "description": "A higher order component decorator for forms using Redux and React",
   "main": "./lib/index.js",
